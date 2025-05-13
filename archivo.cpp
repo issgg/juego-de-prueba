@@ -9,6 +9,7 @@ int main(){
 
     printf("jijija");
     printf("Segundaprueba");
+    printf("tercera pruba");
     return 1;
     
 }
