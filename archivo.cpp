@@ -10,6 +10,8 @@ int main(){
     printf("jijija");
     printf("Segundaprueba");
     printf("tercera pruba");
+
+    printf("cuarta prueba desde el visual studio");
     return 1;
     
 }
