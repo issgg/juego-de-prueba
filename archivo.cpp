@@ -10,9 +10,10 @@ int main(){
     printf("jijija");
     printf("Segundaprueba");
     printf("tercera pruba");
-
+    printf("que divertido es usar esta cosa xd");
     printf("cuarta prueba desde el visual studio");
     printf("apoco shi");
+
 
     return 1;
     
