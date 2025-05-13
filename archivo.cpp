@@ -12,6 +12,8 @@ int main(){
     printf("tercera pruba");
 
     printf("cuarta prueba desde el visual studio");
+    printf("apoco shi");
+
     return 1;
     
 }
