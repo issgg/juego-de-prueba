@@ -6,7 +6,9 @@ int main(){
 
 
     printf("Este es otro cambio xd");
+
+    printf("jijija");
+    printf("Segundaprueba");
     return 1;
-    jijij ja
     
 }
