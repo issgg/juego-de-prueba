@@ -14,7 +14,7 @@ int main(){
     printf("hola");
     printf("cuarta prueba desde el visual studio");
     printf("apoco shi");
-
+     printf("como funciona esto");
 
     return 1;
     
