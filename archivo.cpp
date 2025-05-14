@@ -11,6 +11,7 @@ int main(){
     printf("Segundaprueba");
     printf("tercera pruba");
     printf("que divertido es usar esta cosa xd");
+    printf("hola");
     printf("cuarta prueba desde el visual studio");
     printf("apoco shi");
 
